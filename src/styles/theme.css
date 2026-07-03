@@ -1,0 +1,17 @@
+:root {
+    --background: #07141A;
+    --surface: #10252D;
+    --primary: #0E6B72;
+    --secondary: #17848D;
+    --accent: #C89B3C;
+
+    --text: #FFFFFF;
+    --text-light: #B8C4CC;
+
+    --border: #1E3640;
+
+    --container: 1280px;
+    --radius: 18px;
+
+    --transition: 0.3s ease;
+}
